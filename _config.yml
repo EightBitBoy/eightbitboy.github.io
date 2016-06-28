@@ -11,7 +11,7 @@ email: haertel.dev@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Site description TODO
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.eightbitboy.de" # the base hostname & protocol for your site
+url: "http://www.eightbitboy.de" # the base hostname & protocol for your site
 twitter_username: EightBitBoy
 github_username:  EightBitBoy
 
