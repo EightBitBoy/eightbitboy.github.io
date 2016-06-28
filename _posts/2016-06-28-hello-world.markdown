@@ -12,7 +12,7 @@ You can `_highlight` text.
 
 You can highlight source code:
 
-{% highlight python %}
+{% highlight python linenos %}
 # A simple "Hello world!" python program 
 x = 100
 if x == 100:
