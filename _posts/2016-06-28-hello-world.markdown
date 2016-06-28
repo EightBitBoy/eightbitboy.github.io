@@ -13,7 +13,7 @@ You can `_highlight` text.
 You can highlight source code:
 
 {% highlight python %}
-# A simple "Hello world!" program 
+# A simple "Hello world!" python program 
 x = 100
 if x == 100:
     print("Hello world!")
